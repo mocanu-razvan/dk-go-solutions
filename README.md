@@ -1,2 +1,2 @@
 # dk-go-solutions
-Solutions to all exercises in the Donovan + Kernighan textbook on Go.
+Solutions to all exercises in the Donovan + Kernighan textbook on Go: The Go Programming Language.
